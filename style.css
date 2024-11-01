@@ -1,0 +1,42 @@
+img{
+    height: 300px;
+    width: 493px;
+}
+
+article{
+    margin: 50px;
+    height: 910px;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    width: 600px;
+    font-size: small;
+    
+}
+footer{
+    background-color: rgb(9, 8, 52);
+color: white;
+padding-top: 15px;
+    height:  70px;
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+}
+
+body{
+    background-color: lightblue;
+}
+
+header{
+    border-radius: 10px;
+    height: 150px;
+    text-align: center;
+    width: 100%;
+    background-color: lightgrey;
+    padding-top: 15px;
+}
+
+header .p{
+    font-size: xx-small;
+}
