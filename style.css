@@ -20,11 +20,13 @@ article{
 footer{
     background-color: rgb(9, 8, 52);
 color: white;
-padding-top: 15px;
-    height:  70px;
-    width: 100%;
+padding-top: 10px;
+    padding-left: 15px
+     height:  40px;
+    width: 525px;
     text-align: center;
     margin-top: 15px;
+    margin-left: -15px;
 }
 
 body{
