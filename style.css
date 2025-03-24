@@ -1,47 +1,18 @@
-img{
-    height: 300px;
-    width: 493px;
+*{
+    margin: 0rem;
+    padding: 0rem;
 }
-
-article{
-    margin: 50px;
-    height: 500px;
-    background-color: white;
-    margin-left: 400px;
-    margin-top: 300px;
-    padding-top: 10px;
-    padding-left:15px;
-    padding-right:15px
-    width: 600px;
-    font-size: small;
-    font-family: Arial;
-    
+body{
+    background-color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
 }
 footer{
-    background-color: rgb(9, 8, 52);
-color: white;
-padding-top: 10px;
-    padding-left: 15px
-     height:  40px;
-    width: 525px;
+    background-color: gray;
     text-align: center;
-    margin-top: 15px;
-    margin-left: -15px;
+    padding: 1rem;
+    font-size: small;
 }
-
-body{
-    background-color: lightblue;
-}
-
-header{
-    border-radius: 10px;
-    height: 150px;
-    text-align: center;
-    width: 100%;
-    background-color: lightgrey;
-    padding-top: 15px;
-}
-
-header .p{
-    font-size: xx-small;
+.img{
+    width: 10rem;
+    height: 50px;
 }
